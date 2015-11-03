@@ -11,7 +11,7 @@ var rpc = codebox.require("core/rpc");
 
 // Infos
 var helpUrl = "http://help.codebox.io/";
-var feedbackUrl = "https://github.com/CodeboxIDE/codebox/issues";
+var feedbackUrl = "#";
 
 // Cached methods
 var about = function() {
