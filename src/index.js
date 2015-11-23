@@ -83,13 +83,13 @@ commands.register({
     }
 });
 
-codebox.statusbar.messages.collection.add({
-    content: "Send Feedback",
-    position: "right",
-    click: function() {
-        commands.run("application.feedback");
-    }
-});
+//codebox.statusbar.messages.collection.add({
+//    content: "Send Feedback",
+//    position: "right",
+//    click: function() {
+//        commands.run("application.feedback");
+//    }
+//});
 
 
 // Open changes if version changes
