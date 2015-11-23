@@ -1,6 +1,6 @@
 {
     "name": "about",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "browser": "./src/index.js",
     "description": "About dialog",
     "engines": {
@@ -10,7 +10,7 @@
         "stringify": "3.1.0"
     },
     "packageDependencies": {
-        "statusbar": "CodeboxIDE/package-statusbar"
+        "statusbar": "MimirHQ/package-statusbar"
     },
     "browserify": {
         "transform": [
