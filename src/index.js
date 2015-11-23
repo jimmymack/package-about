@@ -10,7 +10,7 @@ var File = codebox.require("models/file");
 var rpc = codebox.require("core/rpc");
 
 // Infos
-var helpUrl = "http://help.codebox.io/";
+var helpUrl = "http://help.mimirplatform.io/";
 var feedbackUrl = "#";
 
 // Cached methods
@@ -75,13 +75,13 @@ commands.register({
 });
 
 // Open feedback
-commands.register({
-    id: "application.feedback",
-    title: "Application: Send Feedback",
-    run: function() {
-        window.open(feedbackUrl);
-    }
-});
+//commands.register({
+//    id: "application.feedback",
+//    title: "Application: Send Feedback",
+//    run: function() {
+//        window.open(feedbackUrl);
+//    }
+//});
 
 //codebox.statusbar.messages.collection.add({
 //    content: "Send Feedback",
