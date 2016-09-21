@@ -1,10 +1,10 @@
-# Welcome to Valhalla!
+# Welcome to MimirIDE!
 
 Here is what you need to know.
 
 1. You can submit your project to Mimir with ctrl + shift + m
 
-2. Each Valhalla instance will only be around for 15 minutes in Alpha!
+2. Your instance will not last forever! There is a hard time limit. If you exit the instance, your instance may be recycled!
 
 3. You have root access, and can run anything (including apt-get's).
 
