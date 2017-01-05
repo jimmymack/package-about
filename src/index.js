@@ -10,7 +10,7 @@ var File = codebox.require("models/file");
 var rpc = codebox.require("core/rpc");
 
 // Infos
-var helpUrl = "http://help.mimirplatform.io/";
+var helpUrl = "http://help.mimir.io/";
 var feedbackUrl = "#";
 
 // Cached methods
