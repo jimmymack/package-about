@@ -1,4 +1,4 @@
-# Welcome to Mimir IDE!
+# Welcome to MimirIDE!
 
 Here is what you need to know.
 
@@ -8,6 +8,8 @@ Here is what you need to know.
 
 3. You have root access, and can run anything (including apt-get's).
 
-4. Changes you make to the instance will not be saved unless they are in your home directory!
+4. Changes you make to the instance will not be saved unless they are in your home directory (/home/{your first name})! This directory is your workspace, and it is persistent
 
 5. You can video chat on this dock with others via ctrl + shift + V
+
+6. For more help, check out http://help.mimir.io/
