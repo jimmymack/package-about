@@ -10,6 +10,4 @@ Here is what you need to know.
 
 4. Changes you make to the instance will not be saved unless they are in your home directory (/home/{your first name})! This directory is your workspace, and it is persistent
 
-5. You can video chat on this dock with others via ctrl + shift + V
-
-6. For more help, check out http://help.mimir.io/
+5. For more help, check out http://help.mimir.io/
