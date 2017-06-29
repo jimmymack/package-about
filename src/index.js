@@ -94,6 +94,6 @@ commands.register({
 
 // Open changes if version changes
 codebox.app.once("ready", function() {
-    about();
+    // about();
 });
 
